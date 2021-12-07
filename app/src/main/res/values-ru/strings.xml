@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя аппликатсия6</string>
+    <string name="Hello" translatable="false">Привет</string>
+    <string name="next_activity">Следующая активность</string>
+</resources>
